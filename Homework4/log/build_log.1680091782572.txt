@@ -1,0 +1,20 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file Bocelli1.html is being processed by HTMLPlugin.
+The file Bocelli2.html is being processed by HTMLPlugin.
+The file Bocelli3.html is being processed by HTMLPlugin.
+The file Bocelli4.html is being processed by HTMLPlugin.
+The file Bocelli5.html is being processed by HTMLPlugin.
+The file Bocelli6.html is being processed by HTMLPlugin.
+The file Bocelli7.html is being processed by HTMLPlugin.
+************** Import Finished **************
+7 documents were considered for processing:
+    7 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Description;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;dc.Description;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************

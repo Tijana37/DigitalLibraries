@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:gsdl3="http://www.greenstone.org/namespace/gsdlmetadata/1.0/"
+           xmlns:xlink="http://www.w3.org/1999/xlink"
+           xsi:schemaLocation="http://www.loc.gov/METS/
+           http://www.loc.gov/standards/mets/mets.xsd
+           http://www.greenstone.org/namespace/gsdlmetadata/1.0/
+           http://www.greenstone.org/namespace/gsdlmetadata/1.0/gsdl_metadata.xsd"
+  OBJID="HASH0154c7fdd882dc6cf85d833d:2">
+<mets:dmdSec ID="DM1" GROUPID="1">
+  <mets:mdWrap  MDTYPE="OTHER" OTHERMDTYPE="gsdl3" ID="gsdl1">
+    <mets:xmlData>
+      <gsdl3:Metadata name="gsdlsourcefilename">import\Bocelli3.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="gsdlsourcefilerenamemethod">url</gsdl3:Metadata>
+      <gsdl3:Metadata name="gsdldoctype">indexed_doc</gsdl3:Metadata>
+      <gsdl3:Metadata name="Plugin">HTMLPlugin</gsdl3:Metadata>
+      <gsdl3:Metadata name="FileSize">692358</gsdl3:Metadata>
+      <gsdl3:Metadata name="Source">Bocelli3.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="SourceFile">Bocelli3.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="Language">en</gsdl3:Metadata>
+      <gsdl3:Metadata name="Encoding">utf8</gsdl3:Metadata>
+      <gsdl3:Metadata name="Title">Andrea Bocelli - IMDb</gsdl3:Metadata>
+      <gsdl3:Metadata name="FileFormat">HTML</gsdl3:Metadata>
+      <gsdl3:Metadata name="URL">http://Bocelli3.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="UTF8URL">http://Bocelli3.html</gsdl3:Metadata>
+      <gsdl3:Metadata name="dc.Creator">IMDB</gsdl3:Metadata>
+      <gsdl3:Metadata name="dc.Date">2023</gsdl3:Metadata>
+      <gsdl3:Metadata name="dc.Description">Bocelli Movie on imdb</gsdl3:Metadata>
+      <gsdl3:Metadata name="dc.Language">English</gsdl3:Metadata>
+      <gsdl3:Metadata name="dc.Source">https://www.imdb.com/name/nm0004765/</gsdl3:Metadata>
+      <gsdl3:Metadata name="dc.Title">Bocelli IMDB resource</gsdl3:Metadata>
+      <gsdl3:Metadata name="Title">Bocelli IMDB resource</gsdl3:Metadata>
+      <gsdl3:Metadata name="Identifier">HASH0154c7fdd882dc6cf85d833d</gsdl3:Metadata>
+      <gsdl3:Metadata name="lastmodified">1680090424</gsdl3:Metadata>
+      <gsdl3:Metadata name="lastmodifieddate">20230329</gsdl3:Metadata>
+      <gsdl3:Metadata name="oailastmodified">1683033317</gsdl3:Metadata>
+      <gsdl3:Metadata name="oailastmodifieddate">20230502</gsdl3:Metadata>
+      <gsdl3:Metadata name="assocfilepath">HASH0154.dir</gsdl3:Metadata>
+    </mets:xmlData>
+  </mets:mdWrap>
+</mets:dmdSec>
+<mets:fileSec>
+  <mets:fileGrp ID="FILEGROUP_PRELUDE1">
+    <mets:file MIMETYPE="text/xml" ID="FILE1"  >
+      <mets:FLocat LOCTYPE="URL" xlink:href="file:doctxt.xml#xpointer(/Section[1]/text())" xlink:title="Hierarchical Document Structure"/>
+    </mets:file>
+  </mets:fileGrp>
+  <mets:fileGrp ID="default">
+    <mets:file MIMETYPE="text/xml" ID="default.1"  >
+      <mets:FLocat LOCTYPE="URL" xlink:href="file:import\Bocelli3.html" />
+    </mets:file>
+  </mets:fileGrp>
+</mets:fileSec>
+<mets:structMap ID="Section" TYPE="Section" LABEL="Section">
+  <mets:div ID="DS1" TYPE="Section" 
+      ORDER="0" ORDERLABEL="1" 
+      LABEL="1" DMDID="DM1">
+    <mets:fptr FILEID="FILEGROUP_PRELUDE1" />
+  </mets:div>
+</mets:structMap>
+<mets:structMap ID="All" TYPE="Whole Document" LABEL="All">
+  <mets:div ID="DSAll" TYPE="Document" ORDER="0" ORDERLABEL="All" LABEL="Whole Documemt" DMDID="DM1">
+    <mets:fptr FILEID="default.1" />
+  </mets:div>
+</mets:structMap>
+</mets:mets>

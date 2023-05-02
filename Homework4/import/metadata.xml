@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Bocelli1\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli Wikipedia Resources</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Wikipedia</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Description of Andrea Bocelli's life and work</Metadata>
+			<Metadata mode="accumulate" name="dc.Date^modified">18/03/2023</Metadata>
+			<Metadata mode="accumulate" name="dc.Date^created">05/06/2010</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://en.wikipedia.org/wiki/Andrea_Bocelli</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bocelli2\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli Smooth Radio Resource</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Smooth Radio</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Andrea Bocelli facts: Italian singer's age, wife, children and how he lost his sight revealed</Metadata>
+			<Metadata mode="accumulate" name="dc.Date^created">09/03/2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.smoothradio.com/features/andrea-bocelli-blind-age-wife-net-worth-facts/</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bocelli3\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli IMDB resource</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">IMDB</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">Bocelli Movie on imdb</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">2023</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.imdb.com/name/nm0004765/</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bocelli4\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Source">https://www.goodhousekeeping.com/life/entertainment/a43351212/tori-kelly-the-journey-movie-andrea-bocelli-music-hallelujah-instagram/</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli GHK Resource</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">'Journey' Fans Are Speechless Over Andrea Bocelli and Tori Kelly’s Moving "Hallelujah” Duet</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Good House Keeping</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Adrianna Freedman</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">19/04/2023</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bocelli5\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Source">https://the-talks.com/interview/andrea-bocelli/</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli The Talks Resource</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">EMMA ROBERTSON</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">The Talks</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">ANDREA BOCELLI: “LIFE HAS BEEN GOOD TO ME” </Metadata>
+			<Metadata mode="accumulate" name="dc.Date^created">21/11/2019</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bocelli6\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Source">https://www.classicfm.com/artists/andrea-bocelli/andrea-bocelli-greatest-songs/</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli Classic FM resource</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">10 June 2022</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">Classic FM</Metadata>
+			<Metadata mode="accumulate" name="dc.Description">The 9 greatest songs by Andrea Bocelli </Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>Bocelli7\.html</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Description">The Greatest Andrea Bocelli Duets Ever</Metadata>
+			<Metadata mode="accumulate" name="dc.Title">Bocelli Ranker Resource</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Cooley Reed</Metadata>
+			<Metadata mode="accumulate" name="dc.Publisher">The Ranker</Metadata>
+			<Metadata mode="accumulate" name="dc.Date">13/03/2020</Metadata>
+			<Metadata mode="accumulate" name="dc.Source">https://www.smoothradio.com/features/andrea-bocelli-blind-age-wife-net-worth-facts/</Metadata>
+			<Metadata mode="accumulate" name="dc.Language">English</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>
