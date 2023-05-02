@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\YW0=\U09OR1M=\b25seW1wMy50byAtIDUwNS1xVTltSGVna1RjNC0yNTZrLTE2NTY0NDk1MTIzMjI=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">8117037</Metadata>
+    <Metadata name="Source">onlymp3.to - 505-qU9mHegkTc4-256k-1656449512322.mp3</Metadata>
+    <Metadata name="SourceFile">b25seW1wMy50byAtIDUwNS1xVTltSGVna1RjNC0yNTZrLTE2NTY0NDk1MTIzMjI=.mp3</Metadata>
+    <Metadata name="mp3">onlymp3.to - 505-qU9mHegkTc4-256k-1656449512322</Metadata>
+    <Metadata name="srcurl">b25seW1wMy50byAtIDUwNS1xVTltSGVna1RjNC0yNTZrLTE2NTY0NDk1MTIzMjI=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">b25seW1wMy50byAtIDUwNS1xVTltSGVna1RjNC0yNTZrLTE2NTY0NDk1MTIzMjI=.mp3</Metadata>
+    <Metadata name="srclinkFile">b25seW1wMy50byAtIDUwNS1xVTltSGVna1RjNC0yNTZrLTE2NTY0NDk1MTIzMjI=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Arctic Monkeys</Metadata>
+    <Metadata name="dc.Subject">song</Metadata>
+    <Metadata name="dc.Title">505</Metadata>
+    <Metadata name="Title">onlymp3.to - 505-qU9mHegkTc4-256k-1656449512322</Metadata>
+    <Metadata name="Identifier">HASH01ed96eb6802f4547e0b2c6d</Metadata>
+    <Metadata name="lastmodified">1683031924</Metadata>
+    <Metadata name="lastmodifieddate">20230502</Metadata>
+    <Metadata name="oailastmodified">1683032259</Metadata>
+    <Metadata name="oailastmodifieddate">20230502</Metadata>
+    <Metadata name="assocfilepath">HASH01ed.dir</Metadata>
+    <Metadata name="gsdlassocfile">b25seW1wMy50byAtIDUwNS1xVTltSGVna1RjNC0yNTZrLTE2NTY0NDk1MTIzMjI=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

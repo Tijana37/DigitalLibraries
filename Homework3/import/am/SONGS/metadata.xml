@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>Arctic Monkeys - Do I Wanna Know \(Official Video\)\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Do I wanna know?</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Arctic Monkeys</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">song</Metadata>
+			<Metadata mode="accumulate" name="dc.Format">mp3</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>onlymp3\.to - 505-qU9mHegkTc4-256k-1656449512322\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">505</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Arctic Monkeys</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">song</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>onlymp3\.to - Arctic Monkeys - R U Mine \(Official Video\)-VQH8ZTgna3Q-256k-1654912209615\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">R U mine</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Arctic Monkeys</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">song</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>onlymp3\.to - I Wanna Be Yours-nyuo9-OjNNg-256k-1656624601134\.mp3</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">I wanna be yours</Metadata>
+			<Metadata mode="accumulate" name="dc.Creator">Arctic Monkeys</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">song</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\am\PICTURES\AM _%28Arctic_Monkeys%29.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">AM _(Arctic_Monkeys).jpg</Metadata>
+    <Metadata name="OrigSource">AM _(Arctic_Monkeys).jpg</Metadata>
+    <Metadata name="Source">AM _(Arctic_Monkeys).jpg</Metadata>
+    <Metadata name="SourceFile">AM _%2528Arctic_Monkeys%2529.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">22469</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">500</Metadata>
+    <Metadata name="ImageHeight">507</Metadata>
+    <Metadata name="ImageSize">21.9KB</Metadata>
+    <Metadata name="srclink_file">AM _(Arctic_Monkeys).jpg</Metadata>
+    <Metadata name="srclinkFile">AM _(Arctic_Monkeys).jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">AM _(Arctic_Monkeys)_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">99</Metadata>
+    <Metadata name="ThumbHeight">100</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">AM _(Arctic_Monkeys)_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">493</Metadata>
+    <Metadata name="ScreenHeight">500</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">picture</Metadata>
+    <Metadata name="dc.Title">Arctic Monkeys 4</Metadata>
+    <Metadata name="Title">AM  (Arctic Monkeys)</Metadata>
+    <Metadata name="Identifier">HASH2351bbde90f89e04c5a946</Metadata>
+    <Metadata name="lastmodified">1683031924</Metadata>
+    <Metadata name="lastmodifieddate">20230502</Metadata>
+    <Metadata name="oailastmodified">1683032259</Metadata>
+    <Metadata name="oailastmodifieddate">20230502</Metadata>
+    <Metadata name="assocfilepath">HASH2351.dir</Metadata>
+    <Metadata name="gsdlassocfile">AM _(Arctic_Monkeys).jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">AM _(Arctic_Monkeys)_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">AM _(Arctic_Monkeys)_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\YW0=\U09OR1M=\b25seW1wMy50byAtIEFyY3RpYyBNb25rZXlzIC0gUiBVIE1pbmUgKE9mZmljaWFsIFZpZGVvKS1WUUg4WlRnbmEzUS0yNTZrLTE2NTQ5MTIyMDk2MTU=.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">7167021</Metadata>
+    <Metadata name="Source">onlymp3.to - Arctic Monkeys - R U Mine (Official Video)-VQH8ZTgna3Q-256k-1654912209615.mp3</Metadata>
+    <Metadata name="SourceFile">b25seW1wMy50byAtIEFyY3RpYyBNb25rZXlzIC0gUiBVIE1pbmUgKE9mZmljaWFsIFZpZGVvKS1WUUg4WlRnbmEzUS0yNTZrLTE2NTQ5MTIyMDk2MTU=.mp3</Metadata>
+    <Metadata name="mp3">onlymp3.to - Arctic Monkeys - R U Mine (Official Video)-VQH8ZTgna3Q-256k-1654912209615</Metadata>
+    <Metadata name="srcurl">b25seW1wMy50byAtIEFyY3RpYyBNb25rZXlzIC0gUiBVIE1pbmUgKE9mZmljaWFsIFZpZGVvKS1WUUg4WlRnbmEzUS0yNTZrLTE2NTQ5MTIyMDk2MTU=.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">b25seW1wMy50byAtIEFyY3RpYyBNb25rZXlzIC0gUiBVIE1pbmUgKE9mZmljaWFsIFZpZGVvKS1WUUg4WlRnbmEzUS0yNTZrLTE2NTQ5MTIyMDk2MTU=.mp3</Metadata>
+    <Metadata name="srclinkFile">b25seW1wMy50byAtIEFyY3RpYyBNb25rZXlzIC0gUiBVIE1pbmUgKE9mZmljaWFsIFZpZGVvKS1WUUg4WlRnbmEzUS0yNTZrLTE2NTQ5MTIyMDk2MTU=.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Arctic Monkeys</Metadata>
+    <Metadata name="dc.Subject">song</Metadata>
+    <Metadata name="dc.Title">R U mine</Metadata>
+    <Metadata name="Title">onlymp3.to - Arctic Monkeys - R U Mine (Official Video)-VQH8ZTgna3Q-256k-1654912209615</Metadata>
+    <Metadata name="Identifier">HASH012017a1e74ebe29a7a45470</Metadata>
+    <Metadata name="lastmodified">1683031924</Metadata>
+    <Metadata name="lastmodifieddate">20230502</Metadata>
+    <Metadata name="oailastmodified">1683032259</Metadata>
+    <Metadata name="oailastmodifieddate">20230502</Metadata>
+    <Metadata name="assocfilepath">HASH0120.dir</Metadata>
+    <Metadata name="gsdlassocfile">b25seW1wMy50byAtIEFyY3RpYyBNb25rZXlzIC0gUiBVIE1pbmUgKE9mZmljaWFsIFZpZGVvKS1WUUg4WlRnbmEzUS0yNTZrLTE2NTQ5MTIyMDk2MTU=.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

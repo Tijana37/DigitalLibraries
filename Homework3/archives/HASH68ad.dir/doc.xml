@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\YW0=\U09OR1M=\QXJjdGljIE1vbmtleXMgLSBEbyBJIFdhbm5hIEtub3cgKE9mZmljaWFsIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">base64</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">MP3Plugin</Metadata>
+    <Metadata name="FileSize">4251826</Metadata>
+    <Metadata name="Source">Arctic Monkeys - Do I Wanna Know (Official Video).mp3</Metadata>
+    <Metadata name="SourceFile">QXJjdGljIE1vbmtleXMgLSBEbyBJIFdhbm5hIEtub3cgKE9mZmljaWFsIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="mp3">Arctic Monkeys - Do I Wanna Know (Official Video)</Metadata>
+    <Metadata name="srcurl">QXJjdGljIE1vbmtleXMgLSBEbyBJIFdhbm5hIEtub3cgKE9mZmljaWFsIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="FileFormat">MP3</Metadata>
+    <Metadata name="srcicon">_iconmp3_</Metadata>
+    <Metadata name="srclink_file">QXJjdGljIE1vbmtleXMgLSBEbyBJIFdhbm5hIEtub3cgKE9mZmljaWFsIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="srclinkFile">QXJjdGljIE1vbmtleXMgLSBEbyBJIFdhbm5hIEtub3cgKE9mZmljaWFsIFZpZGVvKQ==.mp3</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Creator">Arctic Monkeys</Metadata>
+    <Metadata name="dc.Format">mp3</Metadata>
+    <Metadata name="dc.Subject">song</Metadata>
+    <Metadata name="dc.Title">Do I wanna know?</Metadata>
+    <Metadata name="Title">Arctic Monkeys - Do I Wanna Know (Official Video)</Metadata>
+    <Metadata name="Identifier">HASH68ad12b44b76ebad85ae4c</Metadata>
+    <Metadata name="lastmodified">1683031924</Metadata>
+    <Metadata name="lastmodifieddate">20230502</Metadata>
+    <Metadata name="oailastmodified">1683032259</Metadata>
+    <Metadata name="oailastmodifieddate">20230502</Metadata>
+    <Metadata name="assocfilepath">HASH68ad.dir</Metadata>
+    <Metadata name="gsdlassocfile">QXJjdGljIE1vbmtleXMgLSBEbyBJIFdhbm5hIEtub3cgKE9mZmljaWFsIFZpZGVvKQ==.mp3:audio/mp3:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

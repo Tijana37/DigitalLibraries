@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE Archive SYSTEM "http://greenstone.org/dtd/Archive/1.0/Archive.dtd">
+<Archive>
+<Section>
+  <Description>
+    <Metadata name="gsdlsourcefilename">import\am\PICTURES\4.jpg</Metadata>
+    <Metadata name="gsdlsourcefilerenamemethod">url</Metadata>
+    <Metadata name="gsdldoctype">indexed_doc</Metadata>
+    <Metadata name="Plugin">ImagePlugin</Metadata>
+    <Metadata name="Image">4.jpg</Metadata>
+    <Metadata name="OrigSource">4.jpg</Metadata>
+    <Metadata name="Source">4.jpg</Metadata>
+    <Metadata name="SourceFile">4.jpg</Metadata>
+    <Metadata name="FileFormat">jpeg</Metadata>
+    <Metadata name="FileSize">9778</Metadata>
+    <Metadata name="ImageType">JPEG</Metadata>
+    <Metadata name="ImageWidth">282</Metadata>
+    <Metadata name="ImageHeight">179</Metadata>
+    <Metadata name="ImageSize">9.55KB</Metadata>
+    <Metadata name="srclink_file">4.jpg</Metadata>
+    <Metadata name="srclinkFile">4.jpg</Metadata>
+    <Metadata name="srcicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[srclinkFile]&quot; width=&quot;[ImageWidth]&quot; height=&quot;[ImageHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbType">gif</Metadata>
+    <Metadata name="Thumb">4_thumb.gif</Metadata>
+    <Metadata name="thumbicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Thumb]&quot; alt=&quot;[Thumb]&quot; width=&quot;[ThumbWidth]&quot; height=&quot;[ThumbHeight]&quot;&gt;</Metadata>
+    <Metadata name="ThumbWidth">100</Metadata>
+    <Metadata name="ThumbHeight">63</Metadata>
+    <Metadata name="ScreenType">jpeg</Metadata>
+    <Metadata name="Screen">4_screen.jpeg</Metadata>
+    <Metadata name="screenicon">&lt;img src=&quot;_httpprefix_/collect/[collection]/index/assoc/[assocfilepath]/[Screen]&quot; width=[ScreenWidth] height=[ScreenHeight]&gt;</Metadata>
+    <Metadata name="ScreenWidth">500</Metadata>
+    <Metadata name="ScreenHeight">317</Metadata>
+    <Metadata name="NoText">1</Metadata>
+    <Metadata name="dc.Subject">picture</Metadata>
+    <Metadata name="dc.Title">Arctic Monkeys 3</Metadata>
+    <Metadata name="Title">4</Metadata>
+    <Metadata name="Identifier">HASH01626c2d6331ce45bfb8b13e</Metadata>
+    <Metadata name="lastmodified">1683031924</Metadata>
+    <Metadata name="lastmodifieddate">20230502</Metadata>
+    <Metadata name="oailastmodified">1683032258</Metadata>
+    <Metadata name="oailastmodifieddate">20230502</Metadata>
+    <Metadata name="assocfilepath">HASH0162.dir</Metadata>
+    <Metadata name="gsdlassocfile">4.jpg:image/jpeg:</Metadata>
+    <Metadata name="gsdlassocfile">4_thumb.gif:image/gif:</Metadata>
+    <Metadata name="gsdlassocfile">4_screen.jpeg:image/jpeg:</Metadata>
+  </Description>
+  <Content>This document has no text.</Content>
+</Section>
+</Archive>

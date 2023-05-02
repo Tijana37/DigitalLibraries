@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DirectoryMetadata SYSTEM "http://greenstone.org/dtd/DirectoryMetadata/1.0/DirectoryMetadata.dtd">
+<DirectoryMetadata>
+	<FileSet>
+		<FileName>2\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Arctic Monkeys 1</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">picture</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>3\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Arctic Monkeys 2</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">picture</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>4\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Arctic Monkeys 3</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">picture</Metadata>
+		</Description>
+	</FileSet>
+	<FileSet>
+		<FileName>AM _\(Arctic_Monkeys\)\.jpg</FileName>
+		<Description>
+			<Metadata mode="accumulate" name="dc.Title">Arctic Monkeys 4</Metadata>
+			<Metadata mode="accumulate" name="dc.Subject">picture</Metadata>
+		</Description>
+	</FileSet>
+</DirectoryMetadata>

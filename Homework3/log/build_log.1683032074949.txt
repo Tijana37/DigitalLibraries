@@ -1,0 +1,23 @@
+s
+************** Import  Started **************
+The file metadata.xml is being processed by MetadataXMLPlugin.
+The file am\PICTURES\metadata.xml is being processed by MetadataXMLPlugin.
+The file am\PICTURES\2.jpg is being processed by ImagePlugin.
+The file am\PICTURES\3.jpg is being processed by ImagePlugin.
+The file am\PICTURES\4.jpg is being processed by ImagePlugin.
+The file am\PICTURES\AM _(Arctic_Monkeys).jpg is being processed by ImagePlugin.
+The file am\SONGS\metadata.xml is being processed by MetadataXMLPlugin.
+The file am\SONGS\Arctic Monkeys - Do I Wanna Know (Official Video).mp3 is being processed by MP3Plugin.
+The file am\SONGS\onlymp3.to - 505-qU9mHegkTc4-256k-1656449512322.mp3 is being processed by MP3Plugin.
+The file am\SONGS\onlymp3.to - Arctic Monkeys - R U Mine (Official Video)-VQH8ZTgna3Q-256k-1654912209615.mp3 is being processed by MP3Plugin.
+The file am\SONGS\onlymp3.to - I Wanna Be Yours-nyuo9-OjNNg-256k-1656624601134.mp3 is being processed by MP3Plugin.
+************** Import Finished **************
+8 documents were considered for processing:
+    8 documents were processed and included in the collection.
+
+************** Build  Started **************
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating an index based on text;dc.Title,ex.dc.Title,Title;Source;...
+Creating information database...
+Creating auxiliary files and tidying up...
+************** Build Finished **************
